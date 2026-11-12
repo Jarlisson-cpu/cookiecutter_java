@@ -27,7 +27,7 @@ mvn -version
 ### 1. Obter o codigo
 
 ```bash
-git clone https://github.com/GabrielCardosoUnit/cookiecutter_java.git
+git clone https://github.com/Jarlisson-cpu/cookiecutter_java.git
 cd cookiecutter_java
 ```
 
